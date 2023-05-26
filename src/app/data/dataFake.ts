@@ -1,0 +1,18 @@
+export const dataFake = [
+    {"id": "1",
+    "photo": "https://cdn.marvel.com/content/1x/theincrediblehulk_lob_mas_hlf_02_0.jpg",
+    "title": "THE INCREDIBLE HULK",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
+    {"id": "2",
+    "photo": "https://s2.glbimg.com/hzkZ6aqcDYe0XHmvRoHuTsMw5hk=/0x0:620x413/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_71a8fe14ac6d40bd993eb59f7203fe6f/internal_photos/bs/2022/b/X/AOnSgFSumFZlolKkgWfw/design-sem-nome-2022-10-03t181307.852.png",
+    "title": "Diretor de 'Pantera Negra' quase desistiu de sequência após morte de Boseman",
+    "description": "O diretor Ryan Coogler, responsável pela franquia 'Pantera Negra', contou que quase desistiu de fazer o segundo filme, intitulado 'Pantera Negra: Wakanda para sempre', que estreia no dia 10 de novembro deste ano."},
+    {"id": "3",
+    "photo": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CDBD1CD7358EBEC1F8101A1810A7F2F0E8D01BCE1B5E1D567606CD364F85558B/scale?width=1200&aspectRatio=1.78&format=jpeg",
+    "title": "HOMEM FORMIGA DA MARVEL STUDIOS",
+    "description": "Homem-Formiga (2015) trouxe mais um dos heróis da Marvel para as telas. Nele temos a velha guarda e o novo herói, um ladrão mal sucedido que está ferrado na vida, lutando contra um empresário maníaco que tentava refazer os passos do mentor. Com efeitos especiais bem colocados e o já conhecido humor dos filmes da franquia, o filme nem de longe é o melhor entre os mais de dez filmes da Marvel, mas certamente consegue divertir."},
+    {"id": "4",
+    "photo": "https://legadodamarvel.com.br/wp-content/uploads/2023/05/legadodamarvel-jeff-loveness-vingadores-dinastia-kang.webp",
+    "title": "Rumor: Ex-roteirista de Vingadores 5 é acusado de vazar spoiler na internet",
+    "description": "Jeff Loveness ganhou uma grande moral com a Marvel Studios, sendo contratado como roteirista de Homem-Formiga e a Vespa: Quantumania e logo depois também do vindouro Vingadores: Dinastia Kang."},
+]
